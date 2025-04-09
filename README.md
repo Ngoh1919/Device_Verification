@@ -8,3 +8,5 @@ Create a Schema in mySQL called phono and a table name called stolenPhoneInfo.
 Table should contain columns deviceId, deviceName, deviceType, ownerId, firstName, secondName.
 
 Also modify the path to the Javafx jar files in launch.json
+
+
